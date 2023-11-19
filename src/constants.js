@@ -1,1 +1,1 @@
-export const DB_NAME="madDB"
+export const DB_Name="DB_Name"
